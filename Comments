@@ -1,0 +1,8 @@
+//work on naming conventions
+//Log the number of 'Display details' button clicks. missing
+//Every fifth item will have a blue background. missing
+//not clear input when we click on add button
+//show error msg while user click on add button without any input
+//use reactive form for input field
+//Try to not use Any Type
+//clean your code and remove comments
